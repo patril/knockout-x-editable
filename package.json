@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brianchance/knockout-x-editable.git"
+    "url": "git+https://github.com/patril/knockout-x-editable.git"
   },
   "author": "Brian Chance",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brianchance/knockout-x-editable/issues"
   },
-  "homepage": "https://github.com/brianchance/knockout-x-editable#readme"
+  "homepage": "https://github.com/patril/knockout-x-editable#readme"
 }

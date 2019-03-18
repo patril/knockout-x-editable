@@ -2,7 +2,7 @@
 	"name": "knockout-x-editable",
 	"description": "Knockout bindings for x-editable",
 	"license": "MIT",
-	"homepage": "https://github.com/brianchance/knockout-x-editable",
+	"homepage": "https://github.com/patril/knockout-x-editable",
 	"main": "knockout.x-editable.min.js",
 	"ignore": "",
 	"authors": [
